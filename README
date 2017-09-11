@@ -1,0 +1,13 @@
+Before analysing data you must convert from txt file to root using: (RunID is like 002587 )
+	python /home/webdcs/webdcs/DQM/DQM.py RUNID
+
+efficiency.py Should give efficiency in a primitive way only counting events above Threshold.
+
+backup/DigiCode  Code pretending to be for general use
+
+backup/SalvadorCode Personal code shared with out any guarantee (developing code)
+
+backup/ToThr_Frac.py very preliminary code to count ToThr.
+
+
+
